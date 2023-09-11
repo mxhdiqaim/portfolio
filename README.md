@@ -13,7 +13,7 @@
     Use the Gatsby CLI to create a new site, specifying this starter.
 
     ```shell
-    gatsby new my-portfolio-starter https://github.com/mxhdiqaim/gatsby-portfolio
+    gatsby new my-portfolio-starter https://github.com/mxhdiqaim/portfolio
     ```
 
 1.  **Start developing.**
@@ -48,6 +48,6 @@
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mxhdiqaim/gatsby-portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mxhdiqaim/portfolio)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mxhdiqaim/gatsby-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mxhdiqaim/portfolio)
