@@ -55,8 +55,9 @@ const ProjectCard = (project) => {
           <li>
             <CustomLink icon={<GithubIcon />} text="Github" href={project.project.link} />
           </li>
-
-          <li>{project.homepage ? <CustomLink icon={<div />} text="View" href={project.project.preview} /> : ""}</li>
+          <li>
+            <CustomLink icon={<div />} text="Preview" href={project.project.preview} />
+          </li>
         </ul>
       </footer>
     </div>
@@ -64,10 +65,3 @@ const ProjectCard = (project) => {
 };
 
 export default ProjectCard;
-
-// "book-store",
-// "organic-shop",
-// "lifeline",
-// "cyber-bullying-prevention",
-// "typescript-node-api",
-// "dynamo-keyValue-store"

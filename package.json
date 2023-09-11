@@ -1,8 +1,8 @@
 {
-  "name": "personal_portfolio",
+  "name": "portfolio",
   "private": true,
-  "description": "A simple portfolio template with Gatsby",
-  "version": "0.1.0",
+  "description": "A minimal portfolio",
+  "version": "1.0.0",
   "author": "mahdi",
   "dependencies": {
     "gatsby": "^2.32.13",
@@ -39,14 +39,13 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,scss}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "clean": "gatsby clean"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxhdiqaim/gatsby-portfolio"
+    "url": "https://github.com/mxhdiqaim/portfolio"
   },
   "bugs": {
-    "url": "https://github.com/mxhdiqaim/gatsby-portfolio/issues"
+    "url": "https://github.com/mxhdiqaim/portfolio/issues"
   }
 }

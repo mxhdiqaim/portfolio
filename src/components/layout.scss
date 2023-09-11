@@ -47,7 +47,9 @@
       .social-links {
         width: 100%;
         ul {
+          height: 40px;
           display: flex;
+          align-items: center;
           width: 100%;
           li {
             margin-right: 16px;

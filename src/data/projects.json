@@ -1,30 +1,44 @@
 [
     {
       "title": "Basevel E-Commerce",
-      "lang": "Javascript",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora veniam eligendi excepturi nesciunt, rem id similique aut sed et",
-      "link": "https://github.com/mxhdiqaim",
-      "preview": "https://github.com/mxhdiqaim"
+      "lang": "MERN, Redux",
+      "description": "Basevel is an e-commerce that allow you to shop items online.",
+      "link": "https://github.com/mxhdiqaim/basevell",
+      "preview": "https://radiant-river-29446.herokuapp.com/"
     },
     {
-      "title": "Basevel E-Commerce",
-      "lang": "Javascript",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora veniam eligendi excepturi nesciunt, rem id similique aut sed et",
-      "link": "https://github.com/mxhdiqaim",
-      "preview": "https://github.com/mxhdiqaim"
+      "title": "Pokémon Game",
+      "lang": "React",
+      "description": "Pokémon is a role-playing game based around building a small team of monsters to battle other monsters in a quest to become the best",
+      "link": "https://github.com/mxhdiqaim/poke-game",
+      "preview": "https://poke-game-react.netlify.app"
     },
     {
-      "title": "Basevel E-Commerce",
-      "lang": "Javascript",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora veniam eligendi excepturi nesciunt, rem id similique aut sed et",
-      "link": "https://github.com/mxhdiqaim",
-      "preview": "https://github.com/mxhdiqaim"
+      "title": "FED-Form Validation",
+      "lang": "React",
+      "description": "A simple form with validated Input, Name Validation, Email & Password and finally Select Validation",
+      "link": "https://github.com/mxhdiqaim/fed-task",
+      "preview": "https://fed-task.netlify.app"
     },
     {
-      "title": "Basevel E-Commerce",
-      "lang": "Javascript",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora veniam eligendi excepturi nesciunt, rem id similique aut sed et",
-      "link": "https://github.com/mxhdiqaim",
-      "preview": "https://github.com/mxhdiqaim"
+      "title": "Github Finder",
+      "lang": "React, Context API",
+      "description": "Using Github API to fetch Github user and there details, also Navigating to there profile using React Router",
+      "link": "https://github.com/mxhdiqaim/github",
+      "preview": "https://mxhdiqaim.github.io/github"
+    },
+    {
+      "title": "Quick Huddle Landing",
+      "lang": "HTML & CSS",
+      "description": "Frontend Mentor - Huddle landing page with single introductory section",
+      "link": "https://github.com/mxhdiqaim/quick-huddle-landing",
+      "preview": "https://quick-huddle-landing.netlify.app"
+    },
+    {
+      "title": "GEO SEARCH",
+      "lang": "Javascript, AJAX",
+      "description": "Search for a Location with Google Maps API and Places API",
+      "link": "https://github.com/mxhdiqaim/geo-search-app",
+      "preview": "https://mxhdiqaim.github.io/geo-search-app/"
     }
 ]
