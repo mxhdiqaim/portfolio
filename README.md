@@ -1,53 +1,61 @@
-# Portfolio template/starter made using [Gatsby](https://www.gatsbyjs.org/).
+# Portfolio Template/Starter
+
+This portfolio template/starter was originally created by [Priyesh Patel](https://github.com/priyesh18). It has been modified and personalized for my use.
 
 ## Features
 
-1.  Responsive with mobile first design.
-1.  Dark/Light mode toggle.
-1.  Smooth Scroll and Scroll spy using react-scroll.
+1. Responsive with mobile-first design.
+2. Dark/Light mode toggle.
+3. Smooth Scroll and Scroll Spy using react-scroll.
 
-## 🚀 Quick start
+## 🚀 Quick Start
 
-1.  **Create a Gatsby site.**
+1. **Clone the Repository**
 
-    Use the Gatsby CLI to create a new site, specifying this starter.
+   Clone the repository to your local machine:
 
-    ```shell
-    gatsby new my-portfolio-starter https://github.com/mxhdiqaim/portfolio
-    ```
+   ```shell
+   git clone https://github.com/mxhdiqaim/portfolio
+   ```
 
-1.  **Start developing.**
+2. **Start Developing**
 
-    Navigate into your new site’s directory and start it up.
+   Navigate into your new site’s directory and start the development server:
 
-    ```shell
-    cd my-portfolio-starter/
-    gatsby develop
-    ```
+   ```shell
+   cd portfolio/
+   gatsby develop
+   ```
 
-1.  **Open the source code and start editing!**
+3. **Personalize the Site**
 
-    Your site is now running at `http://localhost:8000`!
+   Update the JSON files inside the `src/data` directory with your personal data:
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`\_.
-
-    Open the `my-portfolio-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-1.  **Edit the data to personalize the site**
-
-    Edit data inside the json files.
-
-    ```
-    .
+   ```
     └── src
-     └── data
+         └── data
     ├── personal.json
     ├── blogs.json
     └── projects.json
-    ```
 
-## 💫 Deploy
+   ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mxhdiqaim/portfolio)
+4. **Preview Your Site**
 
+   Your site will be running at `http://localhost:8000`! Open the `src/pages/index.js` file in your preferred code editor to make further customizations.
+
+## 💫 Deployment
+
+You can deploy your portfolio with one click:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mxhdiqaim/portfolio)  
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mxhdiqaim/portfolio)
+
+## Acknowledgments
+
+This project is based on the [Gatsby Portfolio Starter](https://github.com/priyesh18/gatsby-portfolio) created by Priyesh Patel.  
+I have modified it to include my personal data and preferences while retaining the original design and features.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
