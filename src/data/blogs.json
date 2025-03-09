@@ -1,5 +1,11 @@
 [
   {
+    "id": 0,
+    "title": "Fuzzy Password Recovery: Using Similarity Tokens for a More Forgiving Password System",
+    "text": "In today's digital landscape, password security is paramount. However, traditional systems that store only a one-way cryptographic hash of your password come with a drawback...",
+    "link": "https://mxhdiqaim.hashnode.dev/fuzzy-password-recovery-using-similarity-tokens-for-a-more-forgiving-password-system"
+  },
+  {
     "id": 1,
     "title": "The Funny Side of Programming",
     "text": "Programming can be a serious business, but that doesn't mean it can't be funny. A little humour can go a long way in making the job more enjoyable...",

@@ -7,7 +7,6 @@ import ThemeToggle from "../components/theme-toggle/theme-toggle.component";
 
 import GithubIcon from "../assets/icons/github.svg";
 import TwitterIcon from "../assets/icons/twitter.svg";
-import ThreadsIcon from "../assets/icons/threads.svg";
 import LinkedInIcon from "../assets/icons/linkedin.svg";
 import PersonalData from "../data/personal.json";
 import "./layout.scss";
@@ -45,9 +44,6 @@ const Layout = ({ children }) => {
                 </li>
               </ul>
               <ul>
-                <li>
-                  <CustomLink icon={<ThreadsIcon />} text="Threads" href={PersonalData.threads_url} />
-                </li>
                 <li>
                   <CustomLink icon={<LinkedInIcon />} text="LinkedIn" href={PersonalData.linkedin_url} />
                 </li>
