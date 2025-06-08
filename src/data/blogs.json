@@ -1,5 +1,11 @@
 [
   {
+    "id": 6,
+    "title": "How computer boot: Step-by-Step Flowchart Explained",
+    "text": "The boot process is the sequence of events a computer follows to transition from being powered off to a fully operational state with the operating system running...",
+    "link": "https://mxhdiqaim.hashnode.dev/how-computer-boot-step-by-step-flowchart-explained"
+  },
+  {
     "id": 0,
     "title": "Fuzzy Password Recovery: Using Similarity Tokens for a More Forgiving Password System",
     "text": "In today's digital landscape, password security is paramount. However, traditional systems that store only a one-way cryptographic hash of your password come with a drawback...",
@@ -27,12 +33,12 @@
     "id": 4,
     "title": "Adding TypeScript to existing ReactJS application",
     "text": "You already have running React app, and wanted to add TypeScript to it, Must of the cases, there is a high possibility of your app to break...",
-    "link": "https://blog.bitsrc.io/web-components-without-a-framework-lets-build-a-modal-a450a4536340"
+    "link": "https://mxhdiqaim.hashnode.dev/adding-typescript-to-existing-reactjs-application"
   },
   {
     "id": 5,
     "title": "Adding/upgrading tailwind CSS to v3.0 to existing ReactJS application",
     "text": "You already have React app up and running for some reason you wish to add tailwind to it or upgrade the version of tailwind, don't worry, I got you covered...",
-    "link": "https://mxhdiqaim.hashnode.dev/adding-tailwind-css-to-v30-to-existing-reactjs-application#heading-uninstall-craco-if-you-use-craco-and-update-your-scripts-in-packagejson"
+    "link": "https://mxhdiqaim.hashnode.dev/adding-tailwind-css-to-v30-to-existing-reactjs-application"
   }
 ]
