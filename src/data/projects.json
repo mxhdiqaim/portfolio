@@ -1,12 +1,25 @@
 [
   {
+    "title": "Store Point of Sale (POS) System Frontend",
+    "lang": "Typescript, React, MUI, Redux, Redux Toolkit",
+    "description": "A simple Point of Sale (POS) system frontend built with React and MUI.",
+    "link": "https://github.com/mxhdiqaim/restaurant-pos-fe",
+    "preview": "https://pos-inventory-mvp.netlify.app/home"
+  },
+  {
+    "title": "Store Point of Sale (POS) System Backend",
+    "lang": "NodeJS, Express, PostgreSQL, Drizzle ORM",
+    "description": "A simple backend for Point of Sale (POS) system built with NodeJS and Express.",
+    "link": "https://github.com/mxhdiqaim/restaurant-pos-api"
+  },
+
+  {
     "title": "Yet Another Tailwind To CSS (Y-A-T-C)",
     "lang": "Typescript, TailwindCSS, NextJS",
     "description": "A simple tool to convert TailwindCSS classes to CSS",
     "link": "https://github.com/mxhdiqaim/yatc",
     "preview": "https://y-a-t-c.vercel.app"
   },
-
   {
     "title": "Basevel E-Commerce",
     "lang": "MERN, Redux",
