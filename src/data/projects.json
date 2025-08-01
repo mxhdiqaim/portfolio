@@ -4,7 +4,7 @@
     "lang": "Typescript, React, MUI, Redux, Redux Toolkit",
     "description": "A simple Point of Sale (POS) system frontend built with React and MUI.",
     "link": "https://github.com/mxhdiqaim/restaurant-pos-fe",
-    "preview": "https://pos-inventory-mvp.netlify.app/home"
+    "preview": "https://pos-inventory-mvp.netlify.app"
   },
   {
     "title": "Store Point of Sale (POS) System Backend",
