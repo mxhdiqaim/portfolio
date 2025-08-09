@@ -1,14 +1,20 @@
 [
   {
+    "title": "RAG chatbot",
+    "lang": "Python, FastAPI, Swarmauri SDK, Groq, Docker, Virtual Environments",
+    "description": "This project is a fully functional, containerized Retrieval-Augmented Generation (RAG) chatbot.",
+    "link": "https://github.com/mxhdiqaim/rag_chatbot"
+  },
+  {
     "title": "Kantisoft Frontend",
-    "lang": "Typescript, React, MUI, Redux, Redux Toolkit",
+    "lang": "Typescript, React, MUI, Redux, Redux Toolkit, Docker",
     "description": "A simple Point of Sale (POS) system frontend built with React and MUI.",
     "link": "https://github.com/mxhdiqaim/kantisoft-fe",
     "preview": "https://pos-inventory-mvp.netlify.app"
   },
   {
     "title": "Kantisoft API",
-    "lang": "NodeJS, Express, PostgreSQL, Drizzle ORM",
+    "lang": "NodeJS, Express, PostgreSQL, Drizzle ORM, Docker",
     "description": "A simple API for Point of Sale (POS) system built with NodeJS Express, and PostgreSQL using Drizzle ORM.",
     "link": "https://github.com/mxhdiqaim/kantisoft-api"
   },
@@ -19,13 +25,6 @@
     "description": "A simple tool to convert TailwindCSS classes to CSS",
     "link": "https://github.com/mxhdiqaim/yatc",
     "preview": "https://y-a-t-c.vercel.app"
-  },
-  {
-    "title": "Basevel E-Commerce",
-    "lang": "MERN, Redux",
-    "description": "Basevel is an e-commerce that allow you to shop items online.",
-    "link": "https://github.com/mxhdiqaim/basevell",
-    "preview": "https://radiant-river-29446.herokuapp.com/"
   },
   {
     "title": "Pokémon Game",
