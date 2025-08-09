@@ -18,6 +18,12 @@
     "description": "A simple API for Point of Sale (POS) system built with NodeJS Express, and PostgreSQL using Drizzle ORM.",
     "link": "https://github.com/mxhdiqaim/kantisoft-api"
   },
+  {
+    "title": "Globe",
+    "lang": "React, MUI, @turf/turf, GeoJSON, react-globe.gl",
+    "description": "A web-based application that provides an interactive 3D globe experience.",
+    "link": "https://github.com/mxhdiqaim/globe"
+  },
 
   {
     "title": "Yet Another Tailwind To CSS (Y-A-T-C)",
