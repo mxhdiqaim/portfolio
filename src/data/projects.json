@@ -1,16 +1,16 @@
 [
   {
-    "title": "Store Point of Sale (POS) System Frontend",
+    "title": "Kantisoft Frontend",
     "lang": "Typescript, React, MUI, Redux, Redux Toolkit",
     "description": "A simple Point of Sale (POS) system frontend built with React and MUI.",
-    "link": "https://github.com/mxhdiqaim/restaurant-pos-fe",
+    "link": "https://github.com/mxhdiqaim/kantisoft-fe",
     "preview": "https://pos-inventory-mvp.netlify.app"
   },
   {
-    "title": "Store Point of Sale (POS) System Backend",
+    "title": "Kantisoft API",
     "lang": "NodeJS, Express, PostgreSQL, Drizzle ORM",
-    "description": "A simple backend for Point of Sale (POS) system built with NodeJS and Express.",
-    "link": "https://github.com/mxhdiqaim/restaurant-pos-api"
+    "description": "A simple API for Point of Sale (POS) system built with NodeJS Express, and PostgreSQL using Drizzle ORM.",
+    "link": "https://github.com/mxhdiqaim/kantisoft-api"
   },
 
   {
