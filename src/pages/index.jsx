@@ -15,11 +15,11 @@ const IndexPage = () => (
 
       <AllProjects />
     </div>
-    <div id="blogs" className="blogs-container">
-      <h2 className="section-title">Blogs</h2>
+    {/*<div id="blogs" className="blogs-container">*/}
+    {/*  <h2 className="section-title">Blogs</h2>*/}
 
-      <AllBlogs />
-    </div>
+    {/*  <AllBlogs />*/}
+    {/*</div>*/}
     <p className="designer">
       Designed by&nbsp;
       <a href="https://dribbble.com/NicolasMzrd" target="_blank" rel="noopener noreferrer">
