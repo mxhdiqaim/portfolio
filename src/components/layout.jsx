@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import Nav from "../components/nav/nav.component";
+// import Nav from "../components/nav/nav.component";
 import CustomLink from "../components/custom-link/custom-link.component";
 import ThemeToggle from "../components/theme-toggle/theme-toggle.component";
 
@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
               </p>
             </div>
           </div>
-          <Nav />
+          {/*<Nav />*/}
           <div className="intro-misc">
             <div className="headshot">
               <ThemeToggle />
