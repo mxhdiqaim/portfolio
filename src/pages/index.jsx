@@ -5,7 +5,7 @@ import SEO from '../components/seo';
 import './index.scss';
 
 import AllProjects from '../partials/allProjects.component';
-import AllBlogs from '../partials/allBlogs.component';
+// import AllBlogs from '../partials/allBlogs.component';
 
 const IndexPage = () => (
   <Layout>
