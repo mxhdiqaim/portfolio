@@ -9,7 +9,7 @@ const ProjectCard = (project) => {
 
   useEffect(() => {
     const onResize = () => {
-      setShouldParallax(window.innerWidth > 992 ? true : false);
+      setShouldParallax(window.innerWidth > 992);
     };
 
     const onScroll = () => {
@@ -56,7 +56,7 @@ const ProjectCard = (project) => {
             <CustomLink icon={<GithubIcon />} text="Github" href={project.project.link} />
           </li>
           <li>
-            <CustomLink icon={<div />} text="Preview" href={project.project.preview} />
+            {project.project.preview && <CustomLink icon={<div />} text="Preview" href={project.project.preview} />}
           </li>
         </ul>
       </footer>
