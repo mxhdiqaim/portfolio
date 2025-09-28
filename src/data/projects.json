@@ -1,5 +1,17 @@
 [
   {
+    "title": "Affirmation Word",
+    "lang": "Python, Flask, Docker",
+    "description": "A web application that gives you a random affirmation word to my imaginary girlfriend",
+    "link": "https://github.com/mxhdiqaim/affirmation-word"
+  },
+  {
+    "title": "Go Chat Application",
+    "lang": "Go, WebSocket, Chi, SQLC, PostgreSQL, Docker",
+    "description": "A real-time chat application built with Go, WebSocket, and Chi framework.",
+    "link": "https://github.com/mxhdiqaim/go-chat-app"
+  },
+  {
     "title": "RAG chatbot",
     "lang": "Python, FastAPI, Swarmauri SDK, Groq, Docker, Virtual Environments",
     "description": "This project is a fully functional, containerized Retrieval-Augmented Generation (RAG) chatbot.",
